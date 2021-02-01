@@ -9,7 +9,7 @@ In the ast_workflow/ folder, you can find the BEAST wrapper script and template 
 
 .. code-block:: console
 
-    python -m beast_ast_inputs 15891_SMC-3956ne-9632 \
+    $ python -m beast_ast_inputs 15891_SMC-3956ne-9632 \
           --ref_image data/15891_SMC-3956ne-9632_F475W_drc_wcs_ref_test.fits \
           --filter_ids 234 --galaxy ‘SMC'
 
